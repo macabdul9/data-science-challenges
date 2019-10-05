@@ -1,2 +1,1 @@
-# kaggle-challenge
-kaggle challenge notebook and predictions.
+# data-science-challenges
